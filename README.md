@@ -7,7 +7,9 @@ Hi, I am Minseok Choe, an undergraudate sudent in Korea Univ. I’m majoring in 
 ## 🔭 I’m currently working on
 * Undergraduate intern in [KU-PLRG](https://github.com/ku-plrg)
 * Some projects using next.js
-    - frontend of [Academ](https://github.com/stonechoe/academ-frontend) (deployed at [academ.devkor.club](https://academ.devkor.club))
+    - frontend of [📚Academ](https://github.com/stonechoe/academ-frontend) (deployed at [academ.devkor.club](https://academ.devkor.club))
+        - Top contributor
+        - Stack: Next.js, React
 * Contributing to open source JS projects
     - [core-js](https://github.com/zloirock/core-js) :
       (https://github.com/zloirock/core-js/pull/1319)
