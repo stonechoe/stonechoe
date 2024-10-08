@@ -2,6 +2,8 @@ Hi, I am Minseok Choe, an undergraudate sudent in Korea Univ. I’m majoring in 
 * programming language theory, static analysis and software engineering
 * frontend development using React & Next.js
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goro8pyo)](https://solved.ac/goro8pyo)
+
 ## 🔭 I’m currently working on
 * Undergraduate intern in [KU-PLRG](https://github.com/ku-plrg)
 * Some projects using next.js
